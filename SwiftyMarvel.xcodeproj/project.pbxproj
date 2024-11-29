@@ -12,7 +12,6 @@
 		773446F92CF9450400F66C66 /* CharacterProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773446F82CF9450400F66C66 /* CharacterProfileView.swift */; };
 		773446FB2CF94C2700F66C66 /* FavoritesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773446FA2CF94C2700F66C66 /* FavoritesViewModel.swift */; };
 		77715CC62CF7F771000F1294 /* SwiftyMarvelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77715CC52CF7F771000F1294 /* SwiftyMarvelApp.swift */; };
-		77715CC82CF7F771000F1294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77715CC72CF7F771000F1294 /* ContentView.swift */; };
 		77715CCA2CF7F775000F1294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77715CC92CF7F775000F1294 /* Assets.xcassets */; };
 		77715CCD2CF7F775000F1294 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77715CCC2CF7F775000F1294 /* Preview Assets.xcassets */; };
 		77715CFF2CF7FF9C000F1294 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77715CFE2CF7FF9C000F1294 /* Launch Screen.storyboard */; };
@@ -92,7 +91,6 @@
 		773446FA2CF94C2700F66C66 /* FavoritesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewModel.swift; sourceTree = "<group>"; };
 		77715CC22CF7F771000F1294 /* SwiftyMarvel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftyMarvel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77715CC52CF7F771000F1294 /* SwiftyMarvelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyMarvelApp.swift; sourceTree = "<group>"; };
-		77715CC72CF7F771000F1294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		77715CC92CF7F775000F1294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77715CCC2CF7F775000F1294 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		77715CEF2CF7FA96000F1294 /* .env */ = {isa = PBXFileReference; lastKnownFileType = text; path = .env; sourceTree = "<group>"; };
@@ -241,7 +239,6 @@
 				77715D032CF802E2000F1294 /* Presentation */,
 				77715CCB2CF7F775000F1294 /* Preview Content */,
 				77715CFC2CF7FCC7000F1294 /* info.plist */,
-				77715CC72CF7F771000F1294 /* ContentView.swift */,
 				77715CC52CF7F771000F1294 /* SwiftyMarvelApp.swift */,
 				77715CFE2CF7FF9C000F1294 /* Launch Screen.storyboard */,
 				77715CC92CF7F775000F1294 /* Assets.xcassets */,
@@ -756,7 +753,6 @@
 				778B6AE42CF84A50008CAFE0 /* CachedImageView.swift in Sources */,
 				77AB42EC2CF8278F00062C0D /* ComicModel.swift in Sources */,
 				77AB430B2CF82FE800062C0D /* CharacterEntity+DomainMapper.swift in Sources */,
-				77715CC82CF7F771000F1294 /* ContentView.swift in Sources */,
 				77AB43152CF835B300062C0D /* ComicsDataSource.swift in Sources */,
 				778B6ADE2CF84271008CAFE0 /* ToggleFavoriteUC.swift in Sources */,
 				77AB42E52CF826AD00062C0D /* PaginatedResponseModel.swift in Sources */,
